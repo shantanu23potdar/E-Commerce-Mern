@@ -1,6 +1,6 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
-
-![Demo App link](https://e-commerce-mern-1-chk8.onrender.com/)
+Demo App Link:
+![https://e-commerce-mern-1-chk8.onrender.com/]
 
 About This :
 
